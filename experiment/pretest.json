@@ -2,37 +2,37 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "The Lee's disc apparatus is used to measure the",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Temperature co-efficient of resistance",
+        "b": "Thermal conductivity",
+        "c": "Resistivity",
+        "d": "Electrical conductivity"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Incorrect – This measures how resistance changes with temperature.",
+        "b": "Correct – Lee's disc apparatus is used to measure thermal conductivity.",
+        "c": "Incorrect – Resistivity is measured using other instruments.",
+        "d": "Incorrect – Not related to thermal experiments."
       },
-      "correctAnswer": "a",
+      "correctAnswer": "b",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Thermal conductivity is the property of a material that indicates its ability to",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Conduct heat",
+        "b": "Radiate heat",
+        "c": "Both a and b",
+        "d": "None of these"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Correct – Thermal conductivity refers to heat conduction.",
+        "b": "Incorrect – Radiating heat is different from conducting heat.",
+        "c": "Incorrect – Only conduction is relevant here.",
+        "d": "Incorrect – One of the options is correct."
       },
-      "correctAnswer": "c",
+      "correctAnswer": "a",
       "difficulty": "beginner"
     }
   ]
