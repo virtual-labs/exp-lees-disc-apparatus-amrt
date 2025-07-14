@@ -1,0 +1,39 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "The Lee's disc apparatus is used to measure the",
+      "answers": {
+        "a": "Temperature co-efficient of resistance",
+        "b": "Thermal conductivity",
+        "c": "Resistivity",
+        "d": "Electrical conductivity"
+      },
+      "explanations": {
+        "a": "Incorrect – This measures how resistance changes with temperature.",
+        "b": "Correct – Lee's disc apparatus is used to measure thermal conductivity.",
+        "c": "Incorrect – Resistivity is measured using other instruments.",
+        "d": "Incorrect – Not related to thermal experiments."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Thermal conductivity is the property of a material that indicates its ability to",
+      "answers": {
+        "a": "Conduct heat",
+        "b": "Radiate heat",
+        "c": "Both a and b",
+        "d": "None of these"
+      },
+      "explanations": {
+        "a": "Correct – Thermal conductivity refers to heat conduction.",
+        "b": "Incorrect – Radiating heat is different from conducting heat.",
+        "c": "Incorrect – Only conduction is relevant here.",
+        "d": "Incorrect – One of the options is correct."
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    }
+  ]
+}
