@@ -52,26 +52,28 @@
     <th>Temperature (°C)</th>
   </tr>
   <tr>
-    <td> </td>
+    <td>30
+    </td>
+    <td>
+    </td>
+  </tr>
+  <tr>
+    <td>60 </td>
     <td> </td>
   </tr>
   <tr>
-    <td> </td>
-    <td> </td>
-  </tr>
-  <tr>
-    <td> </td>
+    <td>90 </td>
     <td> </td>
   </tr>
   <tr>
-    <td> </td>
+    <td>... </td>
     <td> </td>
   </tr>
 </table>
 
 
 
-<div style="float: right; margin-left: 20px;"> <img src="./images/figure5.jpg" alt="Figure 5" style="max-width: 300px; height: auto;"> <p style="text-align: center; font-size: smaller; font-style: italic;"></p> </div>
+<div style="float: right; margin-left: 20px;"> <img src="./images/figure5.jpg" alt="Figure 5" style="max-width: 300px; height: auto;"> <p style="text-align: center; font-size: smaller; font-style: italic;"> </p></div>
 
 
 ## Calculation
