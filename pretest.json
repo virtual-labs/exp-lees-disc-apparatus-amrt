@@ -1,0 +1,90 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "The Lee's disc apparatus is used to measure the",
+      "answers": {
+        "a": "Temperature co-efficient of resistance",
+        "b": "Thermal conductivity",
+        "c": "Resistivity",
+        "d": "Electrical conductivity"
+      },
+      "explanations": {
+        "a": "Incorrect – This measures how resistance changes with temperature.",
+        "b": "Correct – Lee's disc apparatus is used to measure thermal conductivity.",
+        "c": "Incorrect – Resistivity is measured using other instruments.",
+        "d": "Incorrect – Not related to thermal experiments."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Thermal conductivity is the property of a material that indicates its ability to",
+      "answers": {
+        "a": "Conduct heat",
+        "b": "Radiate heat",
+        "c": "Both a and b",
+        "d": "None of these"
+      },
+      "explanations": {
+        "a": "Correct – Thermal conductivity refers to heat conduction.",
+        "b": "Incorrect – Radiating heat is different from conducting heat.",
+        "c": "Incorrect – Only conduction is relevant here.",
+        "d": "Incorrect – One of the options is correct."
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+     {
+      "question": "The quantity of heat required to raise the temperature of unit mass of the substance through 1K is called",
+      "answers": {
+        "a": "Specific latent heat",
+        "b": "Heat capacity",
+        "c": "Specific heat capacity of a substance",
+        "d": "None of these"
+      },
+      "explanations": {
+        "a": "Incorrect – Latent heat relates to phase change.",
+        "b": "Incorrect – This refers to total heat needed for a given mass.",
+        "c": "Correct – Specific heat capacity is heat per unit mass per unit temperature.",
+        "d": "Incorrect – There is a correct answer listed."
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "1 Calorie = ----------- joule",
+      "answers": {
+        "a": "4.2",
+        "b": "1",
+        "c": "1.2",
+        "d": "None of these"
+      },
+      "explanations": {
+        "a": "Correct – 1 calorie equals approximately 4.2 joules.",
+        "b": "Incorrect – Too low.",
+        "c": "Incorrect – Not accurate.",
+        "d": "Incorrect – There is a correct numerical value."
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The specific heat capacity of water in KJ/KgK",
+      "answers": {
+        "a": "1000",
+        "b": "0.378",
+        "c": "0.924",
+        "d": "4.19"
+      },
+      "explanations": {
+        "a": "Incorrect – That is in J/kg·K, not KJ.",
+        "b": "Incorrect – Too low.",
+        "c": "Incorrect – Still inaccurate.",
+        "d": "Correct – 4.19 KJ/kg·K is the accepted value for water."
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    }
+  ]
+}
