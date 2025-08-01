@@ -1,1 +1,1 @@
-## Experiment name
+## Lee's Disc Apparatus
